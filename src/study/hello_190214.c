@@ -12,6 +12,17 @@ int main() {
 		printf("3 * %d = %d \n", a, a * 3);
 	}
 
+	// 181227
+	int b;
+	int c;
+	int d;
+
+	b = 3;
+	c = 9;
+	d = b + c;
+
+	printf("%d", d);
+
 	return 0;
 
 }
